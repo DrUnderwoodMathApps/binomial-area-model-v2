@@ -318,7 +318,7 @@ const BinomialAreaModelFinal = () => {
           (-a) × (-b) = +ab in the expansion of (x - a)(x - b).
         </p>
       </div>
-    </div
+    </div>
   );
 };
 
